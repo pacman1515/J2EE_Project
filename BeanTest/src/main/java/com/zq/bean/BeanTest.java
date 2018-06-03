@@ -1,4 +1,4 @@
-package com.zq.controller;
+package com.zq.bean;
 
 import org.springframework.stereotype.Component;
 
