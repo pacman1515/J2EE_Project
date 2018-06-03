@@ -11,5 +11,6 @@
     <modules>
         <module>BeanTest</module>
         <module>SpringMVC</module>
+        <module>MybatisTest</module>
     </modules>
 </project>
