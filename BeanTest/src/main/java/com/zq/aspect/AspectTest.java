@@ -7,7 +7,7 @@ import org.aspectj.lang.annotation.Pointcut;
 
 @Aspect
 public class AspectTest {
-    @Pointcut(value="execution(* com.zq.controller.BeanTest.Display(..))")
+    @Pointcut(value="execution(* com.zq.bean.BeanTest.Display(..))")
     public void point(){
 
     }
