@@ -1,4 +1,4 @@
-package com.zq.bean;
+package com.zq.controller;
 
 import com.zq.dao.UserMapper;
 import com.zq.model.User;
