@@ -37,4 +37,7 @@ public class BeanTest {
                 ", password='" + password + '\'' +
                 '}');
     }
+    public void test(){
+        System.out.println("ceshi");
+    }
 }
