@@ -38,6 +38,6 @@ public class BeanTest {
                 '}');
     }
     public void test(){
-        System.out.println("ceshi");
+        
     }
 }
